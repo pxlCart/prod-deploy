@@ -1,0 +1,1 @@
+import{t,f as n}from"./en-US-DXcIbJEK.js";function r(n,r){const a=+t(n)-+t(r);return a<0?-1:a>0?1:a}function a(t){return n(t,Date.now())}function o(t){return n=>{const r=(t?Math[t]:Math.trunc)(n);return 0===r?0:r}}export{a,r as c,o as g};
